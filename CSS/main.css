@@ -74,7 +74,7 @@ img{
     transform: scale(.5);
 }
 .six:hover{
-    transform: translate(10px, 20px); 
+    transform: translate(35px, 25px); 
 }
 .seven:hover{
     transform: translateY(-305px);
